@@ -1,45 +1,46 @@
-# [JAMstack Construct](https://appseed.us/apps/jamstack/jamstack-construct-pixelarity)
+# [Creare Site Construct](https://creare-site-construct.websitemarket.ro/) - Site Prezentare
 
-Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Construct Pixelarity design.
-
-<br />
-
-![JAMstack Construct - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-construct-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## License
-
-This is a commercial application, to use it you need to buy a license. Please access [AppSeed](https://appseed.us/pricing) for more information.
+![Creare Site Construct](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-construct-intro.gif)
 
 <br />
 
-## App Links
+## Informatii produs
 
-- [Jamstack Construct](https://jamstack-construct.appseed.us/) - live demo
-- [Pixelarity Construct](https://pixelarity.com/construct) - the design provided by Pixelarity 
+- Site de prezentare - Construct
+- Live [DEMO](https://creare-site-construct.websitemarket.ro)
+ 
+<br />
+
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## How to use it
+## Utilizare (pentru dezvoltatori)
 
-- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-construct.git`
-- change directory to `priv-jamstack-construct`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
+
+```
+$ git clone https://github.com/creare-site/creare-site-construct.git
+$ cd creare-site-construct
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Suport
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack Construct](https://appseed.us/apps/jamstack/jamstack-construct-pixelarity) - provided by **AppSeed**
+Site Prezentare - [Construct](https://creare-site-construct.websitemarket.ro/) un produs **WebsiteMarket**
